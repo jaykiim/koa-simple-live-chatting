@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-develope-environment-setting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "server": "nodemon src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.6",
+    "eslint": "^8.6.0",
+    "eslint-plugin-node": "^11.1.0",
+    "prettier": "^2.5.1",
+    "typecript": "0.0.1-security"
+  }
+}
